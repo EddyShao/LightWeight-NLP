@@ -1,5 +1,7 @@
-# ML
-This is the repository for our final project of machine learning course
+# Light weight Sentiment Analysis Model
+## Machine Learning Final Projec
+--
 
-Hope we all get an A eventually
+## Main Conrtibutions
+* By adopting TFIDF followed with a very basic FCNN classifer, we reach the accuracy(91%) comparable to BERT/LSTM on small datasets.
 
